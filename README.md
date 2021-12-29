@@ -1,4 +1,4 @@
-# module2-solution-00
-Module2 solution - Coursera Course
+# Module 2 solution - Coursera Course Challenge
 
-CREATED BY DARA PERES 2021
+:small_orange_diamond: Simple responsive page using HTML e CSS 
+
